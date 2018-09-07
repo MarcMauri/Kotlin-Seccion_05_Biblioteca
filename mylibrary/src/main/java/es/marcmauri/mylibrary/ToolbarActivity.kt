@@ -1,4 +1,4 @@
-package es.marcmauri.mylibrary.activities
+package es.marcmauri.mylibrary
 
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.Toolbar
